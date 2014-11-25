@@ -1,0 +1,446 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$$anonfun$1.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$delayedInit$body.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendRegistration$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendRegistration.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendWorker$$anonfun$receive$3.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendWorker.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$$anonfun$2.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$delayedInit$body.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$$anonfun$1.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$delayedInit$body.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterMessage$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterMessage.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$3.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$receive$1.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$2.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$3.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterServerApp$.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterServerApp.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\Worker$$anonfun$receive$1.class
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\Worker.class
+binary dependencies:
+17 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\Users\Sampath\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> C:\bea11\jrockit_160_14_R27.6.5-32\jre\lib\rt.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-cluster_2.11\jars\akka-cluster_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\Users\Sampath\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> C:\bea11\jrockit_160_14_R27.6.5-32\jre\lib\rt.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-cluster_2.11\jars\akka-cluster_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.3.7.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\Users\Sampath\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\Users\Sampath\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> C:\bea11\jrockit_160_14_R27.6.5-32\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> com.cluster.demo.ClusterDemoApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> com.cluster.demo.ClusterDemoApp$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> com.cluster.demo.ClusterDemoApp$$anonfun$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> com.cluster.demo.ClusterDemoApp$delayedInit$body
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.BackendRegistration
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.BackendRegistration$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.BackendWorker
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.BackendWorker$$anonfun$receive$3
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingApp$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingApp$$anonfun$2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingApp$delayedInit$body
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingAppClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingAppClient$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingAppClient$$anonfun$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterDemoRoutingAppClient$delayedInit$body
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterMessage
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.ClusterMessage$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.FrontEndActor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.FrontEndActor$$anonfun$3
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.FrontEndActor$$anonfun$receive$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.FrontEndActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.WorkerRegisterActor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.WorkerRegisterActor$$anonfun$receive$2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com.cluster.demo.WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$3
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> com.cluster.demo.ClusterServerApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> com.cluster.demo.ClusterServerApp$
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> com.cluster.demo.Worker
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> com.cluster.demo.Worker$$anonfun$receive$1
+used names:
+249 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> !
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> <init>
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> ActorSystem
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> App
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> ClusterClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> ClusterDemoApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> ConfigFactory
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> IndexedSeq
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> Predef
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> Set
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> Thread
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> actor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> actorOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> actorRef2Scala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> actorSelection
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> akka
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> apply
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> canBuildFrom
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> cluster
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> clusterClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> com
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> config
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> contrib
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> demo
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> immutable
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> initialContacts
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> intWrapper
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> java
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> lang
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> load
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> map
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> package
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> pattern
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> println
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> props
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> qual$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> scala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> send
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> sleep
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> system
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> to
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> typesafe
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> x$2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> x$3
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> !
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> !=
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> &&
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> /
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ::
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> <init>
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ==
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> A1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> AbstractFunction1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Actor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ActorLogging
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ActorRef
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ActorSelection
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ActorSystem
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> App
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> B1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> BackendRegistration
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> BackendWorker
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClassTag
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Cluster
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterDemoRoutingApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterDemoRoutingAppClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterEvent
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterMessage
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterReceptionistExtension
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ClusterRouterSettings
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ConfigFactory
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> FrontEndActor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Function1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> IndexedSeq
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> List
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Member
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> MemberStatus
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> None
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Predef
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Product
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Props
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> RootActorPath
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> RoundRobinRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ScalaRunTime
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Serializable
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Set
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> String
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> StringContext
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Terminated
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Thread
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Tuple2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Unit
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> Up
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> WorkerRegisterActor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> _1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> _2
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> _hashCode
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> _toString
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actorOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actorRef2Scala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actorSelection
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actors
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> actors_=
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> address
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> akka
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> apply
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> args
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> asInstanceOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> canBuildFrom
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> cluster
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> clusterAwareWorkerRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> clusterClient
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> clusterClient_=
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> clusterRouterSettings
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> com
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> company
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> config
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> context
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> contrib
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> demo
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> empty
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> eq
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> filter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> foreach
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> head
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> immutable
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> info
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> initialContacts
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> intWrapper
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> isInstanceOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> java
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> key
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> lang
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> length
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> load
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> localBackendWorkerRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> log
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> map
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> materializeClassTag
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> member
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> members
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> message
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ne
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> p
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> package
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> parseString
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> path
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> pattern
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> port
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> println
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> props
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> qual$1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> register
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> registerService
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> routing
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> routingKey
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> runtime
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> s
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> scala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> self
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> send
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> sendMessage
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> sender
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> sleep
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> start
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> status
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> subscribe
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> system
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> terminatedActor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> to
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> toScala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> toString
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> typedProductIterator
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> typesafe
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> unchecked
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> unsubscribe
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> warning
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> watch
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> withFallback
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> withRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> x$4
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> x$5
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> ||
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> +
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> <init>
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> A1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Actor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ActorLogging
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ActorSystem
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> AnyRef
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Array
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> B1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ClassTag
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Cluster
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ClusterReceptionistExtension
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ClusterRouterSettings
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ClusterServerApp
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> ConfigFactory
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Function1
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> None
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Predef
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Props
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> RoundRobinRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Serialization
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> String
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> StringContext
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> System
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Unit
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> Worker
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> actor
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> actorOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> akka
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> apply
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> args
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> asInstanceOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> cluster
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> clusterAwareWorkerRouter
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> clusterRouterSettings
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> com
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> config
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> contrib
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> demo
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> empty
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> info
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> isInstanceOf
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> java
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> lang
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> log
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> materializeClassTag
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> nonEmpty
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> package
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> path
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> pattern
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> println
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> refArrayOps
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> registerService
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> routing
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> s
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> scala
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> self
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> serialization
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> serializedActorPath
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> setProperty
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> system
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> typesafe
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> unchecked
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> withRouter
+product stamps:
+30 items
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendRegistration$.class -> lastModified(1416900171325)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendRegistration.class -> lastModified(1416900171296)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendWorker$$anonfun$receive$3.class -> lastModified(1416900171379)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\BackendWorker.class -> lastModified(1416900171355)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$$anonfun$1.class -> lastModified(1416900171439)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$.class -> lastModified(1416900171433)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp$delayedInit$body.class -> lastModified(1416900171444)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoApp.class -> lastModified(1416900171392)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$$anonfun$2.class -> lastModified(1416900171476)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$.class -> lastModified(1416900171471)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp$delayedInit$body.class -> lastModified(1416900171480)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingApp.class -> lastModified(1416900171450)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$$anonfun$1.class -> lastModified(1416900171503)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$.class -> lastModified(1416900171498)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient$delayedInit$body.class -> lastModified(1416900171509)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterDemoRoutingAppClient.class -> lastModified(1416900171487)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterMessage$.class -> lastModified(1416900171526)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterMessage.class -> lastModified(1416900171520)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterServerApp$.class -> lastModified(1416900171540)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\ClusterServerApp.class -> lastModified(1416900171533)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$3.class -> lastModified(1416900171562)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1416900171576)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor$$anonfun$receive$1.class -> lastModified(1416900171570)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\FrontEndActor.class -> lastModified(1416900171556)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\Worker$$anonfun$receive$1.class -> lastModified(1416900171611)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\Worker.class -> lastModified(1416900171587)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$2.class -> lastModified(1416900171636)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2$$anonfun$applyOrElse$3.class -> lastModified(1416900171641)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor$$anonfun$receive$2.class -> lastModified(1416900171631)
+C:\scala\coursera\ClusterDemo\target\scala-2.11\classes\com\cluster\demo\WorkerRegisterActor.class -> lastModified(1416900171622)
+source stamps:
+3 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> hash(b41b0b5725af1d58c2ac3147d45cea0143ccf3c2)
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> hash(61d808d47f1f4187881a0271b341687efd7a47de)
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> hash(5ffea9945f7aff9b7c5649c6dd5ada227ec2d36d)
+binary stamps:
+6 items
+C:\bea11\jrockit_160_14_R27.6.5-32\jre\lib\rt.jar -> lastModified(1254412040000)
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.7.jar -> lastModified(1415786567000)
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-cluster_2.11\jars\akka-cluster_2.11-2.3.7.jar -> lastModified(1415786991000)
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.3.7.jar -> lastModified(1415787121000)
+C:\Users\Sampath\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1399042454000)
+C:\Users\Sampath\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar -> lastModified(1414078488000)
+class names:
+6 items
+C:\bea11\jrockit_160_14_R27.6.5-32\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.7.jar -> akka.actor.Actor
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-cluster_2.11\jars\akka-cluster_2.11-2.3.7.jar -> akka.cluster.Cluster
+C:\Users\Sampath\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.3.7.jar -> akka.contrib.pattern.ClusterReceptionistExtension$
+C:\Users\Sampath\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Sampath\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar -> scala.runtime.AbstractPartialFunction
+internal apis:
+3 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAJ0KRJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBf5BDZ0AAZub3RpZnlzcQB+AAwxa/ybdAAEd2FpdHNxAH4ADGmsaG10AA0kYXNJbnN0YW5jZU9mc3EAfgAMZASCw3QABnN5c3RlbXNxAH4ADIu4qU10AAZlcXVhbHNzcQB+AAwXye8idAAMYXNJbnN0YW5jZU9mc3EAfgAMW6/XPHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMnfGJFHQADHN5bmNocm9uaXplZHNxAH4ADEe0PHh0AA1jbHVzdGVyQ2xpZW50c3EAfgAMW6AXLnQADSRpc0luc3RhbmNlT2ZzcQB+AAzSIZ5ddAAPaW5pdGlhbENvbnRhY3Rzc3EAfgAMceJWiHQABmNvbmZpZ3NxAH4ADFz8r7p0AARtYWluc3EAfgAMBwSm5XQACW5vdGlmeUFsbHNxAH4ADOf5/Nx0AAxpc0luc3RhbmNlT2ZzcQB+AAw64NBkdAAOQ2x1c3RlckRlbW9BcHBzcQB+AAxqkUF4dAACPT1zcQB+AAwAWBs5dAAFY2xvbmVzcQB+AAzEPN4JdAAIdG9TdHJpbmdzcQB+AAzooX8HdAAEYXJnc3NxAH4ADHACOA90AAIhPXNxAH4ADOH7nRZ0AAhnZXRDbGFzc3NxAH4ADAmjhsN0AAJuZXNxAH4ADJdvflx0AAJlcXNxAH4ADFlA0TJ0AAtkZWxheWVkSW5pdHNxAH4ADDk5Hw10AAIjI3NxAH4ADOarwaV0AAhmaW5hbGl6ZXNxAH4ADLcyRER0AAhoYXNoQ29kZXNxAH4ADA/VXoV0AARzZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAH2NvbS5jbHVzdGVyLmRlbW8uQ2x1c3RlckRlbW9BcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AcnNxAH4AawF1cQB+AEwAAAAAcHNxAH4AawF1cQB+AEwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFJxAH4AW3VxAH4AXAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCWc3EAfgBeAHEAfgAndXEAfgBhAAAAAHNxAH4AiXQABFVuaXRxAH4Aj3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGR0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCKWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBxc3EAfgCJdAAFQXJyYXlxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCJdAAGU3RyaW5nc3EAfgCNc3EAfgCQdXEAfgCTAAAAA3NxAH4AlXQABGphdmFzcQB+AJV0AARsYW5ncQB+AJpwc3EAfgBrAXVxAH4AsQAAAARzcQB+AIl0AANBcHBxAH4Aj3NxAH4AiXQAC0RlbGF5ZWRJbml0cQB+AI9zcQB+AIl0AAZPYmplY3RxAH4AtXNxAH4AiXQAA0FueXEAfgCPcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uY2x1c3RlcnNxAH4AyHQAEGNvbS5jbHVzdGVyLmRlbW9zcQB+AMh0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUnl1HfzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAN0M6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS0GwtXJa8dWMKsMUfUXOoBQ8zzwg==
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB/ZkqbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmM2dcHQABHNlbGZzcQB+AAulCiH3dAAHY29udGV4dHVxAH4ACQAAAD9zcQB+AAvF96x2dAAGbm90aWZ5c3EAfgALIcEfzHQACHJlZ2lzdGVyc3EAfgALIfm9YHQAB1JlY2VpdmVzcQB+AAtRpl5edAAEd2FpdHNxAH4AC09qQvp0AA0kYXNJbnN0YW5jZU9mc3EAfgAL5gyHc3QADUJhY2tlbmRXb3JrZXJzcQB+AAvwd2EndAALc2VuZE1lc3NhZ2VzcQB+AAv3dNOHdAAKcm91dGluZ0tleXNxAH4AC1eUq210AA5DbHVzdGVyTWVzc2FnZXNxAH4AC314fMR0AA1Gcm9udEVuZEFjdG9yc3EAfgALI7IXjXQADHByb2R1Y3RBcml0eXNxAH4AC4JjH4h0AAZlcXVhbHNzcQB+AAtraPSWdAATV29ya2VyUmVnaXN0ZXJBY3RvcnNxAH4AC+qcbxR0AAxhc0luc3RhbmNlT2ZzcQB+AAt/gEEadAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtZhF0PdAAMc3luY2hyb25pemVkc3EAfgALjxhTxHQADWNsdXN0ZXJDbGllbnRzcQB+AAtWLVHqdAANJGlzSW5zdGFuY2VPZnNxAH4AC4gwm0p0AAdyZWNlaXZlc3EAfgAL7P21M3QACnByZVJlc3RhcnRzcQB+AAvLlmMgdAANYXJvdW5kUmVjZWl2ZXNxAH4AC5KDRbl0ABVDbHVzdGVyRGVtb1JvdXRpbmdBcHBzcQB+AAsepABodAAIY2FuRXF1YWxzcQB+AAuMMWZvdAALcG9zdFJlc3RhcnRzcQB+AAssJKRYdAAEbWFpbnNxAH4ACxQFsK50AAhwb3N0U3RvcHNxAH4AC6GnRL10AA1wcm9kdWN0UHJlZml4c3EAfgALZ5EQGXQACW5vdGlmeUFsbHNxAH4AC0u3HiF0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC7C0i0h0AANrZXlzcQB+AAu4EY8cdAAMaXNJbnN0YW5jZU9mc3EAfgALs8LeZXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsCYVlddAAHY29tcGFueXNxAH4AC+cB87Z0AA5hcm91bmRQb3N0U3RvcHNxAH4ACwrpWfd0AAdjbHVzdGVyc3EAfgALyqUUfXQABjxpbml0PnNxAH4AC+m1cEl0AAhwcmVTdGFydHNxAH4AC/a4Ma90AAl1bmhhbmRsZWRzcQB+AAuKCQSPdAAbQ2x1c3RlckRlbW9Sb3V0aW5nQXBwQ2xpZW50c3EAfgALPo54nnQAAj09c3EAfgAL0J0CpnQABWNsb25lc3EAfgALJ2E+03QABmFjdG9yc3NxAH4AC52wiXt0AARjb3B5c3EAfgALiDKw3nQABnNlbmRlcnNxAH4AC7sC8nl0AAh0b1N0cmluZ3NxAH4ACz17kB90AARhcmdzc3EAfgALN1g1/XQAAiE9c3EAfgAL+IHEQHQAE0JhY2tlbmRSZWdpc3RyYXRpb25zcQB+AAucoZRjdAAIZ2V0Q2xhc3NzcQB+AAtN2uN6dAAOY29weSRkZWZhdWx0JDFzcQB+AAtpxHvDdAAFc3RhcnRzcQB+AAuhHwtedAACbmVzcQB+AAviRPSudAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALbXdj23QAAmVxc3EAfgALkJ0+vHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC/ff/6x0AANsb2dzcQB+AAsdBqirdAALZGVsYXllZEluaXRzcQB+AAtvQSjYdAACIyNzcQB+AAuh4LXtdAAIZmluYWxpemVzcQB+AAtjJTETdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAv6GmsNdAAIaGFzaENvZGVzcQB+AAvYLbmidAAOYXJvdW5kUHJlU3RhcnRzcQB+AAv0qpl4dAAEc2VuZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AB9jb20uY2x1c3Rlci5kZW1vLkNsdXN0ZXJNZXNzYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+ALEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJlMAAlpbmhlcml0ZWRxAH4AmUwAB3BhcmVudHNxAH4AmXhxAH4AuHNxAH4AsQF1cQB+AJQAAAAAcHNxAH4AsQF1cQB+AJQAAAAAcHNxAH4AsQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALd0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANFzcQB+AMRxAH4Ax3NxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANB0AARqYXZhc3EAfgDQdAACaW9xAH4A1XNxAH4AxHQAB1Byb2R1Y3RxAH4AynNxAH4AxHQABkVxdWFsc3EAfgDKc3EAfgDEdAAGT2JqZWN0c3EAfgDIc3EAfgDLdXEAfgDOAAAAA3NxAH4A0HEAfgDbc3EAfgDQdAAEbGFuZ3EAfgDVc3EAfgDEdAADQW55cQB+AMpwcHNxAH4AlnEAfgCjdXEAfgCkAAAAAHNxAH4ApgB0ACRjb20uY2x1c3Rlci5kZW1vLkJhY2tlbmRSZWdpc3RyYXRpb251cQB+AKkAAAAAcQB+AK11cQB+AK8AAAAAc3EAfgCxAXEAfgC5cHNxAH4AsQFzcQB+ALtzcQB+ALEBdXEAfgCUAAAAAHBzcQB+ALEBdXEAfgCUAAAAAHBzcQB+ALEBdXEAfgDCAAAABnNxAH4AxHEAfgDHc3EAfgDIc3EAfgDLdXEAfgDOAAAAAnNxAH4A0HEAfgDTcQB+ANVzcQB+AMRxAH4Ax3NxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANBxAH4A23NxAH4A0HQAAmlvcQB+ANVzcQB+AMRxAH4A33EAfgD8c3EAfgDEdAAGRXF1YWxzcQB+APxzcQB+AMRxAH4A43NxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANBxAH4A23NxAH4A0HEAfgDpcQB+ANVzcQB+AMRxAH4A63EAfgD8cHBzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYAdAAmY29tLmNsdXN0ZXIuZGVtby5DbHVzdGVyRGVtb1JvdXRpbmdBcHB1cQB+AKkAAAAAfnEAfgCrdAAGTW9kdWxldXEAfgCvAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AsQFxAH4AuXBzcQB+ALEBc3EAfgC7c3EAfgCxAXVxAH4AlAAAAABwc3EAfgCxAXVxAH4AlAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AmnEAfgCjdXEAfgCkAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4BI3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AMR0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AyHNxAH4Ay3VxAH4AzgAAAAJzcQB+ANBxAH4A03EAfgDVc3EAfgCmAHEAfgBDdXEAfgCpAAAAAHNxAH4AxHQABFVuaXRxAH4BMnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ASN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKx0AAVQbGFpbnEAfgBtc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemV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
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAZUuDKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQJSUKnQABHNlbGZzcQB+AAtT19rFdAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAstx5fedAAGbm90aWZ5c3EAfgALWh/F+nQAB1JlY2VpdmVzcQB+AAtgb43ZdAAEd2FpdHNxAH4ACy5y2QB0AA0kYXNJbnN0YW5jZU9mc3EAfgALWndYW3QABmVxdWFsc3NxAH4AC21SS3V0AAxhc0luc3RhbmNlT2ZzcQB+AAs9UaNudAAMc3luY2hyb25pemVkc3EAfgALSJMsd3QADSRpc0luc3RhbmNlT2ZzcQB+AAvCobsbdAAHcmVjZWl2ZXNxAH4AC5sUTrx0AApwcmVSZXN0YXJ0c3EAfgALSBi/r3QADWFyb3VuZFJlY2VpdmVzcQB+AAt6L+6HdAALcG9zdFJlc3RhcnRzcQB+AAtGoV0NdAAEbWFpbnNxAH4AC233QZJ0AAhwb3N0U3RvcHNxAH4AC9jufKt0AAlub3RpZnlBbGxzcQB+AAvtAot7dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvzLouXdAAMaXNJbnN0YW5jZU9mc3EAfgALHQw5OHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAssYR1NdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAv2+R0XdAAGPGluaXQ+c3EAfgALsMMWFnQACHByZVN0YXJ0c3EAfgALRyC0qHQACXVuaGFuZGxlZHNxAH4AC4+w7V50AAI9PXNxAH4AC23QsEV0AAVjbG9uZXNxAH4ACyKyVSp0ABBDbHVzdGVyU2VydmVyQXBwc3EAfgALRwrUVXQABnNlbmRlcnNxAH4ACxoku5d0AAh0b1N0cmluZ3NxAH4AC6tOLLN0AAIhPXNxAH4AC47lELp0AAhnZXRDbGFzc3NxAH4AC3wix2l0AAZXb3JrZXJzcQB+AAu2idpRdAACbmVzcQB+AAuoLdvqdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALNIDd/nQAAmVxc3EAfgALkgUcP3QAA2xvZ3NxAH4AC6vv50F0AAIjI3NxAH4AC3IkXgF0AAhmaW5hbGl6ZXNxAH4ACz0SOQB0AAhoYXNoQ29kZXNxAH4AC2q9g9V0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACFjb20uY2x1c3Rlci5kZW1vLkNsdXN0ZXJTZXJ2ZXJBcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AH8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhnNxAH4AfwF1cQB+AGIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGhxAH4AcXVxAH4AcgAAAABzcQB+AHQAcQB+ACt1cQB+AHcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCOeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB6dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCVWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCFc3EAfgCUdAAFQXJyYXlxAH4AmnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCUdAAGU3RyaW5nc3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHQABGphdmFzcQB+AKB0AARsYW5ncQB+AKVwc3EAfgB/AXVxAH4AYgAAAABwc3EAfgB/AXVxAH4AuQAAAAJzcQB+AJR0AAZPYmplY3RxAH4AvXNxAH4AlHQAA0FueXEAfgCacHBzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAdAAXY29tLmNsdXN0ZXIuZGVtby5Xb3JrZXJ1cQB+AHcAAAAAfnEAfgB5dAAIQ2xhc3NEZWZ1cQB+AH0AAAAAc3EAfgB/AXEAfgCHcHNxAH4AfwFzcQB+AIlzcQB+AH8BdXEAfgBiAAAAAHBzcQB+AH8BdXEAfgBiAAAAAHBzcQB+AH8BdXEAfgC5AAAABHNxAH4AlHQADEFjdG9yTG9nZ2luZ3NxAH4AmHNxAH4Am3VxAH4AngAAAANzcQB+AKB0AARha2thc3EAfgCgdAAFYWN0b3JxAH4ApXNxAH4AlHQABUFjdG9ycQB+AN9zcQB+AJRxAH4AyXNxAH4AmHNxAH4Am3VxAH4AngAAAANzcQB+AKBxAH4AwXNxAH4AoHEAfgDDcQB+AKVzcQB+AJRxAH4Ay3NxAH4AmHNxAH4Am3VxAH4AngAAAAJzcQB+AKBxAH4Ao3EAfgClcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb20uY2x1c3RlcnNxAH4A9XQAEGNvbS5jbHVzdGVyLmRlbW9zcQB+APV0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUnl1HfzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAN0M6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRf/qmUX3r/m3xWScbdWtoifsLTbQ==
+external apis:
+0 items
+source infos:
+3 items
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoApp.scala -> 
+AAAAAAAAAAA=
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterDemoRoutingApp.scala -> 
+AAAAAQAAAQAAAGwAMiAgICAgIGFjdG9ycyA9IGFjdG9ycy5maWx0ZXIoXyAhPSB0ZXJtaW5hdGVkQWN0b3IpAQAAEAIBAAAAHwEAHyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAFlDOlxzY2FsYVxjb3Vyc2VyYVxDbHVzdGVyRGVtb1xzcmNcbWFpblxzY2FsYVxjb21cY2x1c3RlclxkZW1vXENsdXN0ZXJEZW1vUm91dGluZ0FwcC5zY2FsYQEAWUM6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHNyY1xtYWluXHNjYWxhXGNvbVxjbHVzdGVyXGRlbW9cQ2x1c3RlckRlbW9Sb3V0aW5nQXBwLnNjYWxhAHFjb21wYXJpbmcgdmFsdWVzIG9mIHR5cGVzIChha2thLmFjdG9yLkFjdG9yUmVmLCBTdHJpbmcpIGFuZCBha2thLmFjdG9yLkFjdG9yUmVmIHVzaW5nIGAhPScgd2lsbCBhbHdheXMgeWllbGQgdHJ1ZQEAAAAA
+C:\scala\coursera\ClusterDemo\src\main\scala\com\cluster\demo\ClusterServerApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSd9QU/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSeUkXR11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSeXUd/N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhXGNvdXJzZXJhXENsdXN0ZXJEZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
